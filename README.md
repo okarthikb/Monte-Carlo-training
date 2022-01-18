@@ -1,2 +1,4 @@
 # Monte-Carlo-training
-RL using Monte-Carlo
+
+
+Training a Blackjack-v1 agent using Monte-Carlo sampling.
